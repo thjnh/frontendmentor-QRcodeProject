@@ -1,7 +1,6 @@
 :root {
 	--light-gray: #d5e1ef;
 	--grayish-blue: hsl(220, 15%, 55%);
-    /* --dark-blue: hsl(218, 44%, 22%) */
     --dark-navi: #1F314F
 }
 * {
@@ -33,7 +32,7 @@ body {
     background-color: white;
     border-radius: 20px;
     padding-top: 16px;  
-    box-shadow: 0 0 10px 12px rgba(0, 0, 0, 0.046) ; 
+    box-shadow: 0 0 30px 12px rgba(0, 0, 0, 0.046) ; 
 }
 .container-qrcode img {
     border-radius: 10px;
